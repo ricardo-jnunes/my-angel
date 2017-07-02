@@ -1,0 +1,47 @@
+BF                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                  2                2EF        CAAAAAAAAAA
+AD                 EF         EF            EF       EGD        CAAAAAAAAAA
+AD        EF       CD       1 CD          1 CD       CAD        CAAAAAAAAAA
+AHBBBBBBBBGHBBBBBBBGHBBBBBBBBBGHBBBBBBBBBBBBGHBBBBBBBGAHBBBF  EBGAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD  CAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD  CAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD  CAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD  CAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD  CAAAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                                                              CAAAAAAAAAA
+AD                 EFIIIIIIIIIEF            EF       EBF        CAAAAAAAAAA
+AD        EF       CD         CD        1   CD       CAD        CAAAAAAAAAA
+AHBF  EBBBGHBBBBBBBGH         GHBBBBBBBBBBBBGHBBBBBBBGAHBBBBBBBBGAAAAAAAAAA
+AAAD  CAAAAAAAAAAAAAAJJJJJJJJJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAD  CAAAAAAAAAAAAAAJJJJJJJJJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAD  CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAD  CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAD  CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAD                                                              
+AAAD 
+AD                                            2                   
+AD                                                                        *
+AD                                                              EBBBBBBBBBB
+AD                                                          I   CA
+AD                                                              CA
+AD                                      2                 I     CA
+AD                                                              CA
+AD                                                      I       CA
+AD                                             2                CA
+AD                      III                                     CA
+AD                 EF         EF            EF     EBF          CA
+AD        EF       CD        1CD            CD     CAD          CA
+AHBBBBBBBBGHBBBBBBBGHBBBBBBBBBGHBBBBBBBBBBBBGHBBBBBGAHBBBBBBBBBBGA

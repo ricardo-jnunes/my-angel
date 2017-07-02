@@ -1,0 +1,47 @@
+                                                                                      *
+                                                                                      I
+                                                                                 o          o
+                                                                 o         o     I          I       
+                                                                 I         I             o       o    
+                                                                     o                   I       I
+                                                                     I           o           oo
+                                                                 o         o    III          II      
+                                                                 I         I          o   o      ooo      
+                                                                     o                I   I      III
+                                                                     I           o           o
+                                                                 o         o    III          I       
+                                                                 I         I             o      o      
+                                                                     o                   I      I
+                                                                     I           o           o
+                                                                 o         o    III          I      
+                                                                 I         I             o          
+                                                                     o         o         I      ooo
+                                                                     I         I    o           III
+                                                                oo                  I
+                                                                II         o              oo
+                                                                           I      oo      II
+                                                                     oo           II            o
+                                                                     II               o         I
+                                                                          o           I    o
+                                                                          I                I    
+                                                                                              o  
+                                                                                I             I  
+                                                                               I
+                                                                       IIII  IIII  I   I  IIII
+                                                                     I I     I     I   I  I
+                                                                       I     IIII  I I I  IIII
+                                                                   I   I     I     I   I     I
+                                                                       IIII  IIII  IIIII  IIII
+                                                   IIIII  IIII  IIII
+                                                 I I   I  I  I  I
+                                                   IIIII  I  I  IIII
+                                               I   I   I  I  I     I
+                                                   I   I  IIII  IIII
+           IIII  I   I  IIII  IIIII  I   I  IIII
+           I     I   I  I     I      I   I  I
+        I  I     IIIII  IIII  I  II  I I I  IIII
+           I     I   I  I     I   I  I   I  I
+     I     IIII  I   I  IIII  IIIII  IIIII  IIII
+      
+                                                                 
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
